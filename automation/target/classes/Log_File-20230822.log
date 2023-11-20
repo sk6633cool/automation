@@ -1,0 +1,82 @@
+2023-08-22 18:03:48.931 [main] INFO  com.utilities.BaseClass - Stepup of CromeDriver is done
+2023-08-22 18:03:49.980 [main] INFO  com.utilities.BaseClass - Browser has been launched
+2023-08-22 18:03:50.097 [main] INFO  com.utilities.BaseClass - Browser is maximized
+2023-08-22 18:03:50.825 [main] INFO  com.utilities.BaseClass - Driver control is Navigate to the url
+2023-08-22 18:03:50.851 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with empty username and empty password
+2023-08-22 18:03:50.918 [main] INFO  com.utilities.BaseClass - Login button is clicked without entering username and password
+2023-08-22 18:03:50.940 [main] INFO  com.utilities.BaseClass - Epic sadface: Username is required
+2023-08-22 18:03:50.946 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:50.946 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:03:50.950 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with empty username and valid password
+2023-08-22 18:03:51.020 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:03:51.054 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid password and empty username
+2023-08-22 18:03:51.070 [main] INFO  com.utilities.BaseClass - Epic sadface: Username is required
+2023-08-22 18:03:51.077 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:51.077 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:03:51.079 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with valid username and empty password
+2023-08-22 18:03:51.134 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:03:56.210 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid username and empty password
+2023-08-22 18:03:56.223 [main] INFO  com.utilities.BaseClass - Epic sadface: Password is required
+2023-08-22 18:03:56.227 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:56.228 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:03:56.229 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with wrong username and valid password
+2023-08-22 18:03:56.276 [main] INFO  com.utilities.BaseClass - Invalid username is entered
+2023-08-22 18:03:56.316 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:03:56.345 [main] INFO  com.utilities.BaseClass - Login Button is clicked with Invalid username and valid password
+2023-08-22 18:03:56.357 [main] INFO  com.utilities.BaseClass - Epic sadface: Username and password do not match any user in this service
+2023-08-22 18:03:56.361 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:56.361 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:03:56.363 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with valid username and wrong password
+2023-08-22 18:03:56.409 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:03:56.447 [main] INFO  com.utilities.BaseClass - Invalid password is entered
+2023-08-22 18:03:56.474 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid username and Invalid password
+2023-08-22 18:03:56.486 [main] INFO  com.utilities.BaseClass - Epic sadface: Username and password do not match any user in this service
+2023-08-22 18:03:56.491 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:56.491 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:03:56.533 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:03:56.572 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:03:56.630 [main] INFO  com.utilities.BaseClass - Login button is clicked with valid credentials
+2023-08-22 18:03:56.635 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:03:56.635 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:04:01.001 [main] INFO  com.utilities.BaseClass - Browser is closed successfully and server connection is also disconnected
+2023-08-22 18:56:02.876 [main] INFO  com.utilities.BaseClass - Stepup of CromeDriver is done
+2023-08-22 18:56:03.973 [main] INFO  com.utilities.BaseClass - Browser has been launched
+2023-08-22 18:56:04.106 [main] INFO  com.utilities.BaseClass - Browser is maximized
+2023-08-22 18:56:04.507 [main] INFO  com.utilities.BaseClass - Driver control is Navigate to the url
+2023-08-22 18:56:04.537 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with empty username and empty password
+2023-08-22 18:56:04.595 [main] INFO  com.utilities.BaseClass - Login button is clicked without entering username and password
+2023-08-22 18:56:04.620 [main] INFO  com.utilities.BaseClass - Epic sadface: Username is required
+2023-08-22 18:56:04.626 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:04.626 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:04.631 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with empty username and valid password
+2023-08-22 18:56:04.694 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:56:04.725 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid password and empty username
+2023-08-22 18:56:04.737 [main] INFO  com.utilities.BaseClass - Epic sadface: Username is required
+2023-08-22 18:56:04.741 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:04.741 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:04.743 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with valid username and empty password
+2023-08-22 18:56:04.795 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:56:09.892 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid username and empty password
+2023-08-22 18:56:09.904 [main] INFO  com.utilities.BaseClass - Epic sadface: Password is required
+2023-08-22 18:56:09.908 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:09.908 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:09.909 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with wrong username and valid password
+2023-08-22 18:56:09.951 [main] INFO  com.utilities.BaseClass - Invalid username is entered
+2023-08-22 18:56:09.994 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:56:10.023 [main] INFO  com.utilities.BaseClass - Login Button is clicked with Invalid username and valid password
+2023-08-22 18:56:10.039 [main] INFO  com.utilities.BaseClass - Epic sadface: Username and password do not match any user in this service
+2023-08-22 18:56:10.044 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:10.045 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:10.047 [main] INFO  com.utilities.BaseClass - This method is used to validate the login page with valid username and wrong password
+2023-08-22 18:56:10.103 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:56:10.149 [main] INFO  com.utilities.BaseClass - Invalid password is entered
+2023-08-22 18:56:10.188 [main] INFO  com.utilities.BaseClass - Login Button is clicked with valid username and Invalid password
+2023-08-22 18:56:10.200 [main] INFO  com.utilities.BaseClass - Epic sadface: Username and password do not match any user in this service
+2023-08-22 18:56:10.204 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:10.204 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:10.252 [main] INFO  com.utilities.BaseClass - Valid username is entered
+2023-08-22 18:56:10.296 [main] INFO  com.utilities.BaseClass - Valid password is entered
+2023-08-22 18:56:10.352 [main] INFO  com.utilities.BaseClass - Login button is clicked with valid credentials
+2023-08-22 18:56:10.358 [main] INFO  com.utilities.BaseClass - Swag Labs
+2023-08-22 18:56:10.358 [main] INFO  com.utilities.BaseClass - ==============================================
+2023-08-22 18:56:15.604 [main] INFO  com.utilities.BaseClass - Browser is closed successfully and server connection is also disconnected
